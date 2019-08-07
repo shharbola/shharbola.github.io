@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Sandeep Pandey"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a data scientist with a PhD in scientific computing from University of Stuttgart. I possess strong mathematical skills and have developed codes, capable of performing parallel computing on gigabytes of unstructured scientific data."
   location         : "Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=47fn38MAAAAJ&hl=en"
   email            :  "sandeep.pandey91@hotmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Sandeep_Pandey11"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  https://www.linkedin.com/in/sandeep-pandey-ike/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -112,7 +112,7 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             :  "https://www.xing.com/profile/Sandeep_Pandey6/cv?sc_o=mxb_p"
+  xing             :  "https://www.xing.com/profile/Sandeep_Pandey6/"
   youtube          :
   wikipedia        :
 
