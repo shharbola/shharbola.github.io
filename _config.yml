@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  https://www.linkedin.com/in/sandeep-pandey-ike/
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         :  "sandeep-pandey-ike"
+  orcid            : "0000-0002-1858-1734"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -112,7 +112,7 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             :  "https://www.xing.com/profile/Sandeep_Pandey6/"
+  xing             :  "Sandeep_Pandey6"
   youtube          :
   wikipedia        :
 
