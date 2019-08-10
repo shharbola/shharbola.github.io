@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Scientific Computing, University of Stuttgart, Germany, 2016-2019.
-* M.Tech. in Energy Studies, Indian Institute of Technology (IIT) Delhi, India, 2013-2015.
-* B.Tech. in Mechanical Engineering, Rajasthan Technical University Kota, India, 2008-2012
+* Ph.D in Scientific Computing, [University of Stuttgart, Germany](https://www.uni-stuttgart.de/), 2016-2019. (1.0/5.0 Magna cum laude)
+* M.Tech. in Energy Studies, [Indian Institute of Technology (IIT) Delhi, India](http://www.iitd.ac.in/), 2013-2015. (9.39/10.0, batch-topper)
+* B.Tech. in Mechanical Engineering, [Rajasthan Technical University Kota, India](http://www.rtu.ac.in/RTU/), 2008-2012. (75.52%, with honors)
 
 
 Work experience
@@ -25,33 +25,20 @@ Work experience
 
 * 01/2016 - 06/2019: Research Associate
   * University of Stuttgart, Germany
-  * Duties included: Project managerment, international collaboration, supervision.
+  * Duties included: Project managerment, international collaboration, supervision
   * Supervisor: Prof. habil. Dr.-Ing. E. Laurien
   
 * 07/2013-09/2015: Teaching and Research Assistant
   * Indian Institute of Technology (IIT) Delhi, India
-  * Duties included: Assisting in teaching and tutoring of students.
+  * Duties included: Assisting in teaching and tutoring of students
   * Supervisor: Professor Dr. S. C. Kaushik
 
   
 Skills
 ======
-* Scientific computing and programming
-  * C++
-  * Python
-  * MATLAB
-  * FORTRAN
-* Machine learning
-  * Python
-  * TensorFlow
-  * Keras
-  * Scikit-learn
-* Computational fluid dynamics
- * OpenFOAM
- * Nektar++
- * Ansys workbench
- * gmsh and ICEM
-
+* Programming: C++, Python, MATLAB, FORTRAN.
+* Machine learning: Python, TensorFlow, Keras, Scikit-learn.
+* Computational fluid dynamics: OpenFOAM, Nektar++, Ansys workbench, gmsh, ICEM.
 
 
 Awards and achievement
@@ -62,10 +49,10 @@ Awards and achievement
 * 08/2015:	Bhagirathi-Bashisht Tiwari Award for securing the highest CGPA in the Centre for Energy Studies, IIT Delhi.
 * 09/2014 – 03/2015:	[DAAD-IIT Master Sandwich Program Scholarship](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=1&detail=57504697&intention=&origin=4&page=3&q=&status=&subjectGrps=)
 * 08/2013 – 03/2015:	MHRD, India fellowship for pursuing M.Tech. at IIT Delhi
-* 02/2013: All India Rank of 749 out of 165,814 candidate in Graduate Aptitude Test in Engineering (GATE) -2013 examination.
+* 02/2013: All India Rank of 749 out of 165,814 candidate in [Graduate Aptitude Test in Engineering (GATE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) -2013 examination.
 
 
-Service and leadership
+Management and leadership
 ======
 * Managed a large-scale project at Gauss Center for Supercomputing for 3.5 years.
 * Led a small team for research in turbulence modelling and machine learning.
@@ -76,15 +63,6 @@ Languages
 * English (Fluent, C2)
 * German (Beginner, A2)
 * Hindi (Native, C2)
-
-
-Journal Referee 
-======
-* Physics of Fluid
-* International Journal of Heat and Mass Transfer
-* Energy
-* Applied Thermal Engineering
-* Journal of Physics and Chemistry of Solids
 
 
 Certification Courses 
@@ -100,3 +78,12 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+
+Journal Referee 
+======
+* Physics of Fluid
+* International Journal of Heat and Mass Transfer
+* Energy
+* Applied Thermal Engineering
+* Journal of Physics and Chemistry of Solids  
