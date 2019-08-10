@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Servus! I am Sandeep, currently working as Research Associate at Technical University of Ilmenau in Germany. I am scientific computing engineer where I am working in an interdisciplinary environment. My work overlaps with aerospace engineering, mechanical engineering and of course computer science. At the moment, I am focusing on a turbulence related problem and making some successful attempt in modelling and predicting it by means of data-driven approach such as machine learning. Until now, I have tested deep neural network, recurrent neural network and reservoir computing on my time-series data.
+Servus! I am Sandeep, currently working as Research Associate at Technical University of Ilmenau in Germany. I am scientific computing engineer, where I am leading research in an interdisciplinary environment. My work overlaps with applied physics, mechanical engineering and of course computer science. At the moment, I am focusing on a turbulence related problem and making some successful attempt in modelling and predicting it by means of data-driven approach such as machine learning. Until now, I have tested deep neural network, recurrent neural network and reservoir computing on my time-series data.
 
 
 Professional and research history
@@ -21,4 +21,4 @@ I hold a Master of Technology degree from IIT Delhi in Energy Studies, where I h
 
 Curious?
 ======
-If you have any question, suggestion about my work, then please feel free to drop a mail! I am also open to any collaboration within my domain of expertise.
+If you have any question, suggestion about my work, then please feel free to drop me a mail! I am also open to any collaboration within my domain of expertise.
