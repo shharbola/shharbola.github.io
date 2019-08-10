@@ -1,7 +1,5 @@
 ---
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-3
----
 
 10. Chu, X., Yang, G., Pandey, S. and Weigand, B., 2019. [Direct numerical simulation of convective heat transfer in porous media. International Journal of Heat and Mass Transfer](https://www.sciencedirect.com/science/article/abs/pii/S0017931018356436), 133, pp.11-20.
 
@@ -22,3 +20,4 @@ permalink: /publication/2010-10-01-paper-title-number-3
 2. Pandey, S. and Laurien, E., 2016. [Heat transfer analysis at supercritical pressure using two layer theory](https://www.sciencedirect.com/science/article/pii/S0896844615301789). The Journal of Supercritical Fluids, 109, pp.80-86.
 
 1. Chu, X., Laurien, E. and Pandey, S., 2016. [Direct Numerical Simulation of Heated Pipe Flow with Strong Property Variation](https://link.springer.com/chapter/10.1007/978-3-319-47066-5_32). In High Performance Computing in Science and Engineering´ 16 (pp. 473-486). Springer, Cham.
+---
