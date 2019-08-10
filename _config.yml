@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sandeep Pandey"
   avatar           : "profile.png"
-  bio              : "I am a data scientist with a PhD in scientific computing from University of Stuttgart. I possess strong mathematical skills and have developed codes, capable of performing parallel computing on gigabytes of unstructured scientific data."
+  bio              : " An engineer with a PhD in applied machine learning and scientific computing. "
   location         : "Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,11 +99,11 @@ author:
   github           : "ikespand"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "sandeep.pandey91"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :  "sandeep-pandey-ike"
-  orcid            :  "www.orcid.org/0000-0002-1858-1734"
+  orcid            :  "0000-0002-1858-1734"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
