@@ -1,3 +1,8 @@
+---
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-3
+---
+
 10. Chu, X., Yang, G., Pandey, S. and Weigand, B., 2019. [Direct numerical simulation of convective heat transfer in porous media. International Journal of Heat and Mass Transfer](https://www.sciencedirect.com/science/article/abs/pii/S0017931018356436), 133, pp.11-20.
 
 9. Föll, F., Pandey, S., Chu, X., Munz, C.-D., Laurien, E., and Weigand, B., 2019. [High-Fidelity Direct Numerical Simulation of Supercritical Channel Flow Using Discontinuous Galerkin Spectral Element Method](https://link.springer.com/chapter/10.1007/978-3-030-13325-2_17). In High Performance Computing in Science and Engineering'18 (pp. 275-289). Springer, Cham.
