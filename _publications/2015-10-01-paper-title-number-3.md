@@ -2,7 +2,7 @@
 title: "Journal articles"
 collection: publications
 date: 2019-10-08
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: 'This link contains the full list of publication in journals.'
 ---
 
