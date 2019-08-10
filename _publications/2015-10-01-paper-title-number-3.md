@@ -1,8 +1,9 @@
 ---
 title: "Journal articles"
 collection: publications
+date: 2019-10-08
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Check out full list of journal article here'
+excerpt: 'This link contains the full list of publication in journals.'
 ---
 
 10. Chu, X., Yang, G., Pandey, S. and Weigand, B., 2019. [Direct numerical simulation of convective heat transfer in porous media. International Journal of Heat and Mass Transfer](https://www.sciencedirect.com/science/article/abs/pii/S0017931018356436), 133, pp.11-20.
