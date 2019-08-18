@@ -8,4 +8,4 @@ collection: Updates
 #location: "City, Country"
 ---
 
-Our work on machine learning and DSN was featured by GCS.[https://www.hlrs.de/whats-new/news/archive/detail-view/2018-11-05/]
+November 2018: (Our work on machine learning and DSN was featured by GCS).[https://www.hlrs.de/whats-new/news/archive/detail-view/2018-11-05/]
