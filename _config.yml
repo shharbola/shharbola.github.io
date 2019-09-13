@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Sandeep Pandey"
-  avatar           : "Profile_pic.JPG"
+  avatar           : "profile.png"
   bio              : " Engineer with a PhD in applied machine learning and scientific computing. "
-  location         : "Germany"
+  location         : "Ilmenau, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=47fn38MAAAAJ&hl=en"
