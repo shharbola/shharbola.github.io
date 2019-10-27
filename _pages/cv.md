@@ -19,20 +19,18 @@ Education
 Work experience
 ======
 
-* 07/2019 - Present: Research Associate
+* 07/2019 - Present: Research Associate (Applied Machine Learning)
   * Technical University of Ilmenau, Germany
   * Duties included: Leading research in applied machine learning in turbulence
 
-* 01/2016 - 06/2019: Research Associate
+* 01/2016 - 06/2019: Research Associate (Scientific Computing)
   * University of Stuttgart, Germany
   * Duties included: Project managerment, international collaboration, supervision
-  * Supervisor: Prof. habil. Dr.-Ing. E. Laurien
   
 * 07/2013-09/2015: Teaching and Research Assistant
   * Indian Institute of Technology (IIT) Delhi, India
   * Duties included: Assisting in teaching and tutoring of students
-  * Supervisor: Professor Dr. S. C. Kaushik
-
+  
   
 Skills
 ======
@@ -82,8 +80,9 @@ Publications
 
 Journal Referee 
 ======
-* Physics of Fluid
-* International Journal of Heat and Mass Transfer
-* Energy
-* Applied Thermal Engineering
-* Journal of Physics and Chemistry of Solids  
+* [Physics of Fluid](https://aip.scitation.org/journal/phf)
+* [International Journal of Heat and Mass Transfer](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer)
+* [Energy](https://www.journals.elsevier.com/energy)
+* [Applied Thermal Engineering](https://www.journals.elsevier.com/applied-thermal-engineering)
+* [Journal of Physics and Chemistry of Solids](https://www.journals.elsevier.com/journal-of-physics-and-chemistry-of-solids)
+* [Journal of Applied Mathematics and Mechanics](https://onlinelibrary.wiley.com/journal/15214001)
