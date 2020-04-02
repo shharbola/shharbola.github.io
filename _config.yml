@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sandeep Pandey"
-  avatar           : " " #"Sandeep.png"
+  avatar           : "profile.png" #"Sandeep.png"
   bio              : " Engineer with a PhD in applied machine learning and scientific computing. "
   location         : "Germany"
   employer         :
