@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png" #"Sandeep.png"
   bio              : " IT Engineer and currently pursuing Ph.D. Student at the University of Stuttgart, Baden-Württemberg, Germany in Information Technology. "
   location         : "Germany"
-  employer         :
+  employer         : "http://windycities.de/projects/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=dZwSC4gAAAAJ&hl=en"
   email            :  ""
