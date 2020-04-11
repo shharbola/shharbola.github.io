@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sandeep Pandey"
+title                    : "Shubhi Harbola"
 title_separator          : "-"
-name                     : &name "Sandeep Pandey"
+name                     : &name "Shubhi Harbola"
 description              : &description "personal description"
-url                      : https://ikespand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shharbola.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ikespand/ikespand.github.io"
+repository               : "shharbola/shharbola.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sandeep Pandey"
+  name             : "Shubhi Harbola"
   avatar           : "profile.png" #"Sandeep.png"
-  bio              : " Engineer with a PhD in applied machine learning and scientific computing. "
+  bio              : " Engineer currently pursuing Researcher PhD Student at University of Stuttgart Stuttgart, Baden-Württemberg, Germany. "
   location         : "Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
