@@ -1,26 +1,15 @@
----
-permalink: /
-title: "About"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-Servus! I am Sandeep, currently working as a Software Engineer for data analytics and visualisation at Veoneer in Germany. 
-
+Hi! I am Shubhi, currently working as a Researcher, Ph.D. Student at the University of Stuttgart, Germany. Presently I am mixing data analytics with machine learning for solving the real-life problem with machine advancement and human intelligence. Machine learning, Visual analysis, LiDAR, and Remote Sensing are the areas whose specialisation I have done — absorbed much of the existing knowledge in the above domains so that I can propose some new solutions. I am looking for "Opportunities to apply in daily life problems in academic industries, business, research," and to explore more with my discipline. 
 
 Professional and research history
 ======
 
-Before starting current job in 2020, I did a short postdoc at Technical University of Ilmenau in Germany, where I focused on a turbulence related problem and developed novel data-driven methods based on machine learning and reduce-ordered modelling. During this sojourn at Ilmenau, I have worked with deep neural network, recurrent neural network and reservoir computing where I heavily rely on Python, MATLAB, Keras and associated libraries.
+I am working as a Researcher, Ph.D. Student at the University of Stuttgart, Germany, in Information Technology where I focused on a prediction and visual analysis related problem and developed a novel data-driven methods based on machine learning and reduce-ordered modeling. I have worked with a deep neural network, recurrent neural network, and reservoir computing, where I heavily rely on Python, MATLAB, Dash, Tensor flow, Keras, and associated libraries.
+Currently am working with the project on Visual analysis of geospatial sensor data streams where my prime aim was to develop data-driven models for wind flow prediction in a new-type of windmills and sensor installation for future power plant establishment.
+Meteorological data and its effect have been the attention of the researchers of the smart city planning for thorough utilization and management of resources, that help in effective government management, convenient public services, and sustainable industrial development. Renewable sources of energy like wind, solar, are being integrated into city planning to improve environmental quality. Wind energy is utilized through wind turbines and requires foreknowledge of wind parameters like speed and direction. I developed a framework to predict dominant wind speed and direction for a time-series wind dataset that can be incorporated into city planning for selecting suitable sites for wind turbines. 
+Moreover, I worked on some classification based models and then explored the machine learning-based methods, including multiple CNN, decision tree, random forest, and deep neural network. My research work was not only limited to temporal prediction model development, meanwhile, I have also performed interactive visual data analytics for the high-fidelity temporal measurements collected by the meteorological data simulation and sensors. During the data analytics part, I developed different toolkits within Tableau, MATLAB, and Python to perform a variety of tasks such as probability analysis, eigenvalue decomposition, correlations, and statistical analysis. 
 
-I did my PhD at University of Stuttgart where my prime aim was to develop data-driven models for heat transfer prediction in a new-type of power plants. As I was missing the experimental data, so I did several highly accurate and computationally expensive (1 simulation takes approx 400,000 CPU-hours!) simulations on supercomputers using up to 50,000 CPUs at once. Some of [the data from these numerical experiments were released](https://www.ike.uni-stuttgart.de/forschung/Ueberkritisches-CO2/dns/){:target="_blank"} for benchmarking of new methods. After having data in hand, I worked on some regression based models and then explored the machine learning based methods including decision tree, random forest and deep neural network. My work was not only limited to model development but I also have to perform data analytics for the high-fidelity data coming out from the simulation. During data analytics part, I developed different toolkits within MATLAB and Python to perform variety of task such as probability analysis, eigenvalue decomposition, correlations, and statistical analysis. 
-
-
-I hold a Master of Technology degree from IIT Delhi in Energy Studies, where I had unique opportunity to dive deep into the energy resources modeling from technical, economical and environmental perspective. I did my Bachelor of Technology in Mechanical Engineer from RTU Kota. 
+I obtained a Master of Technology (M.Tech) degree from IIT Kanpur, India in Geoinformatics, where I had unique opportunity to dive deep into the development and uses of information science infrastructure to address the problems of geography, cartography, geosciences, and engineering and learned energy resources modeling from a technical, economic and environmental perspective. I did my Bachelor of Technology (B.Tech) in Information Technology from Uttarakhand technical Univerity, India. 
 
 Curious?
 ======
-If you have any question, suggestion about my work, then please feel free to drop me a mail! I am also open to any collaboration within my domain of expertise.
+If you have any questions, suggestions about my work, then please feel free to drop me a mail! I am also open to any collaboration within my domain of expertise.
