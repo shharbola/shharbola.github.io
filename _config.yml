@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Shubhi Harbola"
   avatar           : "profile.png" #"Sandeep.png"
-  bio              : " Engineer currently pursuing Researcher PhD Student at University of Stuttgart Stuttgart, Baden-Württemberg, Germany. "
+  bio              : "Engineer and currently pursuing Ph.D. Student at the University of Stuttgart, Baden-Württemberg, Germany in Information Technology. "
   location         : "Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.de/citations?user=47fn38MAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.de/citations?user=dZwSC4gAAAAJ&hl=en"
   email            :  ""
-  researchgate     :  "https://www.researchgate.net/profile/Sandeep_Pandey11"
+  researchgate     :  #"https://www.researchgate.net/profile/Sandeep_Pandey11"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ikespand"
+  github           : "shharbola"
   google_plus      :
   keybase          :
-  instagram        : "sandeep.pandey91"
+  instagram        : #""
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "sandeep-pandey-ike"
+  linkedin         :  "shubhi-harbola-uni-stuttgart"
   orcid            : # "0000-0002-1858-1734"
   pinterest        :
   soundcloud       :
@@ -112,7 +112,7 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             :  "Sandeep_Pandey6"
+  xing             :  #""
   youtube          :
   wikipedia        :
 
