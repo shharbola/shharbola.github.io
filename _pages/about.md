@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Hi! I am Shubhi, currently working as a Researcher, Ph.D. Student at the University of Stuttgart, Germany in Information Technology. Presently I am mixing data analytics with machine learning for solving the real-life problem with machine advancement and human intelligence. Machine learning, Visual analysis, LiDAR, and Remote Sensing are the areas whose specialisation I have done — absorbed much of the existing knowledge in the above domains so that I can propose some new solutions. I am looking for "Opportunities to apply in daily life problems in academic industries, business, research," and to explore more with my discipline. 
 
 Professional and research history
