@@ -88,8 +88,8 @@ Publications
 
 Journal Referee 
 ======
-* [publication descriptionThe International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Annals)](https://aip.scitation.org/journal/phf){:target="_blank"}
-* [publication descriptionThe International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Archives)](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer){:target="_blank"}
+* [The International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Annals)](https://aip.scitation.org/journal/phf){:target="_blank"}
+* [The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Archives)](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer){:target="_blank"}
 * [Energy](https://www.journals.elsevier.com/energy){:target="_blank"}
 * [Energy Conversion and Management](https://www.journals.elsevier.com/energy-conversion-and-management){:target="_blank"}
 
