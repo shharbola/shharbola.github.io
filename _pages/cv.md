@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information Technology & Scientific Computing, [University of Stuttgart, Germany](https://www.uni-stuttgart.de/){:target="_blank"}, Oct 2017- (1.0/5.0 Magna cum laude)
-* Researcher in Department of Computer Science and Surveying Dean of Information Logistics, [University of Applied Sciences, Germany](https://www.hft-stuttgart.de/){:target="_blank"}, Oct 2017- (1.0/5.0 Magna cum laude)
-* M.Tech. in Geoinformatics, [Indian Institute of Technology (IIT) Kanpur, India](http://www.iitk.ac.in/){:target="_blank"}, 2014-2016. (8/10.0, batch-topper)
-* B.Tech. in Computer Science Engineering, [Uttarakhand Technical University DDun, India](http://www.uktech.ac.in/uksee/){:target="_blank"}, 2007-2011.(80%, with honors)
+* Ph.D in Information Technology & Scientific Computing, [University of Stuttgart, Germany](https://www.uni-stuttgart.de/){:target="_blank"}, Oct 2017 - Present(1.0/5.0 Magna cum laude)
+* Researcher in Department of Computer Science and Surveying Dean of Information Logistics, [University of Applied Sciences, Germany](https://www.hft-stuttgart.de/){:target="_blank"}, Oct 2017 - Present(1.0/5.0 Magna cum laude)
+* M.Tech. in Geoinformatics, [Indian Institute of Technology (IIT) Kanpur, India](http://www.iitk.ac.in/){:target="_blank"}, 2014 - 2016. (8/10.0)
+* B.Tech. in Computer Science Engineering, [Uttarakhand Technical University DDun, India](http://www.uktech.ac.in/uksee/){:target="_blank"}, 2007 - 2011.(80%, branch-topper with honors)
 
 
 Work experience
