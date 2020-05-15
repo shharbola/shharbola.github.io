@@ -88,11 +88,8 @@ Publications
 
 Journal Referee 
 ======
-* [Physics of Fluid](https://aip.scitation.org/journal/phf){:target="_blank"}
-* [International Journal of Heat and Mass Transfer](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer){:target="_blank"}
+* [publication descriptionThe International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Annals)](https://aip.scitation.org/journal/phf){:target="_blank"}
+* [publication descriptionThe International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Archives)](https://www.journals.elsevier.com/international-journal-of-heat-and-mass-transfer){:target="_blank"}
 * [Energy](https://www.journals.elsevier.com/energy){:target="_blank"}
-* [Applied Thermal Engineering](https://www.journals.elsevier.com/applied-thermal-engineering){:target="_blank"}
-* [Journal of Physics and Chemistry of Solids](https://www.journals.elsevier.com/journal-of-physics-and-chemistry-of-solids){:target="_blank"}
-* [Journal of Applied Mathematics and Mechanics](https://onlinelibrary.wiley.com/journal/15214001){:target="_blank"}
 * [Energy Conversion and Management](https://www.journals.elsevier.com/energy-conversion-and-management){:target="_blank"}
 
