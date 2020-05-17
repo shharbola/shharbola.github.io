@@ -19,19 +19,19 @@ Education
 
 Work experience
 ======
-* 10/2017 - : Research Associate (Information Technology and Data Science)
+* 10/2017 - Present: Research Associate (Information Technology and Data Science)
   * University of Stuttgart, Germany
   * Duties included: Data analytics and visualisation, project managerment, international collaboration, supervision
   
-* 11/2016-7/2017:Research Assistant
+* 11/2016 - 7/2017: Research Assistant
   * Indian Institute of Technology (IIT) Gandhinagar, India
   * Duties included: Researcher in Indian Space Research Organisation (ISRO) funded project on Chandrayaan-1
 
-* 06/2016-10/2016:Research Assistant
+* 06/2016 - 10/2016: Research Assistant
   * Indian Institute of Technology (IIT) Kanpur, India
   * Duties included: Estimating horizontal accuracy of LiDAR data
   
-* 07/2014-06/2016: Teaching and Research Assistant
+* 07/2014 - 06/2016: Teaching and Research Assistant
   * Indian Institute of Technology (IIT) Kanpur, India
   * Duties included: Assisting in teaching and tutoring of students
   
@@ -54,13 +54,14 @@ Awards and achievement
 * 08/2017 - Present: Student Member @ BIM group University of Melbourne, [University of Applied Melbourne, Australia](https://www.blogs.unimelb.edu.au/bim-iag/members/){:target="_blank"}, Aug 2017- (1.0/5.0 Magna cum laude)
 * 07/2014 – 03/2016:	MHRD, India fellowship for pursuing M.Tech. at IIT Kanpur
 * 07/2014 – 11/2014:	Member, Cultural Secretary of Girl's Hall of Residence. HEC Member at IIT Kanpur
-* 02/2012 and 02/2013 : Qualified [Graduate Aptitude Test in Engineering (GATE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering){:target="_blank"} -2012-13 examination.
+* 02/2011 & 02/2012 : Qualified [Graduate Aptitude Test in Engineering (GATE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering){:target="_blank"} - 2011-12 examination.
 * 02/2008 and 02/2010 : Member of College Technical Committe for 2 years. 
 
 
 Management and leadership
 ======
-* Managed a large-scale project at Gauss Center for Supercomputing for 2.5 years.
+* Managed a large-scale project for Supercomputing for 2.5 years.
+* Performed monte carlo simulation to generate volumed, big data of 3D point cloud, LiDAR datasets.
 * Led a small team for research in wind prediction modelling and machine learning.
 
 
