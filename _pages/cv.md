@@ -50,13 +50,13 @@ Skills
 Awards and achievement
 ======
 * 10/2017 – Present: [Ministerium für Wissenschaft Forschung und Kunst Baden-Württemberg e.V. Scholarship for PhD](https://www.windycities.de/projects/){:target="_blank"}
-* 03/2018 - Present : IEEE Student Member and IEEE Women researcher committee Member.
-* 05/2018:	Summer School-New York City,"Zero Carbon Cities“ is part of the Baden-Württemberg-STIPENDIUM, Stuttgart Germnay
+* 03/2018 - Present: IEEE Student Member and IEEE Women researcher committee Member.
+* 05/2018: Summer School - New York City,"Zero Carbon Cities“ is part of the Baden-Württemberg-STIPENDIUM, Stuttgart Germnay
 * 08/2017 - Present: Student Member @ BIM group University of Melbourne, [University of Applied Melbourne, Australia](https://www.blogs.unimelb.edu.au/bim-iag/members/){:target="_blank"}, Aug 2017- Present
-* 07/2014 – 03/2016:	MHRD, India fellowship for pursuing M.Tech. at IIT Kanpur
+* 07/2014 – 03/2016: MHRD, India fellowship for pursuing M.Tech. at IIT Kanpur
 * 07/2014 – 11/2014:	Member, Cultural Secretary of Girl's Hall of Residence, HEC Member at IIT Kanpur
-* 02/2011 & 02/2012 : Qualified [Graduate Aptitude Test in Engineering (GATE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering){:target="_blank"} - 2011-12 examination
-* 02/2008 and 02/2010 : Member of College Technical committee for 2 years 
+* 02/2011 & 02/2012: Qualified [Graduate Aptitude Test in Engineering (GATE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering){:target="_blank"} - 2011-12 examination
+* 02/2008 and 02/2010: Member of College Technical committee for 2 years 
 
 
 Management and leadership
