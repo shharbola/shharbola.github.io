@@ -50,6 +50,7 @@ Skills
 Awards and achievement
 ======
 * 10/2017 – Present: [Ministerium für Wissenschaft Forschung und Kunst Baden-Württemberg e.V. Scholarship for PhD](https://www.windycities.de/projects/){:target="_blank"}
+* 03/2018 - Present : IEEE Student Member and IEEE Women researcher committee Member.
 * 05/2018:	Summer School-New York City,"Zero Carbon Cities“ is part of the Baden-Württemberg-STIPENDIUM, Stuttgart Germnay
 * 08/2017 - Present: Student Member @ BIM group University of Melbourne, [University of Applied Melbourne, Australia](https://www.blogs.unimelb.edu.au/bim-iag/members/){:target="_blank"}, Aug 2017- Present
 * 07/2014 – 03/2016:	MHRD, India fellowship for pursuing M.Tech. at IIT Kanpur
