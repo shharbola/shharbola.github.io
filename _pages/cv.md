@@ -77,7 +77,7 @@ Languages
 
 Certification Courses 
 ======
- * Machine Learning: Univeristy level cources and cleared the exam with good grades
+ * Machine Learning: Univeristy level courses and cleared the exam with good grades
  * Cray XC40 Workshop on Optimization at Scale at HLRS Stuttgart, 20-22 September 2018.
  * FORTRAN for Scientific Computing at HLRS, Stuttgart, 20-24 March 2018
 
