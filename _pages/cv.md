@@ -35,7 +35,7 @@ Work experience
   * Indian Institute of Technology (IIT) Kanpur, India
   * Duties included: Assisting in teaching and tutoring of students
   
-* 05/2011-06/2014: Teaching and Research Assistant
+* 05/2011 - 06/2014: Teaching and Research Assistant
   * Engineering & Management College Uttarakhand, India
   * Duties included: Lecturer, class assigmnets and student projects
   
