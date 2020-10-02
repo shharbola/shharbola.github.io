@@ -9,4 +9,4 @@ date: 2020-10-1
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-#10. E. Laurien, S. Pandey, “Direct-Numerical Simulation of Flow and Heat Transfer within Channels of a Supercritical-CO2 Cooler”, In Proceedings of 3rd European supercritical CO2 #Conference, 27-29 September 2019, Paris, France.  
+1. S. Harbola,and V. Coors, “Visual analysis of geospatial sensor data streamsr”, In Proceedings of windycites winter school @ University of Stuttgart, 15-18 January 2019, Stuttgart, Germany.  
