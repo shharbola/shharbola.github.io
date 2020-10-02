@@ -1,11 +1,11 @@
 ---
 title: "Journal articles"
 collection: publications
-date: 2019-10-08
+date: 2018-2020
 permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: 'This link contains the full list of publication in journals.'
 ---
-5. Harbola, S., Coors, V., 2019. [SEASONALITY DEDUCTION PLATFORM: FOR PM10, PM2.5, NO, NO2 AND O3 IN RELATIONSHIP WITH WIND SPEED AND HUMIDITY](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/VI-4-W2-2020/71/2020/isprs-annals-VI-4-W2-2020-71-2020.pdf). In The International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Annals).
+5. Harbola, S., Coors, V., 2019. [SEASONALITY DEDUCTION PLATFORM: FOR PM 10, PM 2.5, NO, NO 2 AND O 3 IN RELATIONSHIP WITH WIND SPEED AND HUMIDITY](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/VI-4-W2-2020/71/2020/isprs-annals-VI-4-W2-2020-71-2020-relations.html). In The International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Annals).
 
 4. Harbola, S., Coors, V., 2019.  [One dimensional convolutional neural network architectures for wind prediction](https://www.sciencedirect.com/science/article/abs/pii/S0196890419305527). In Energy and Management (pp. 275-289). Elsevier,
 195, pp.70-75.
