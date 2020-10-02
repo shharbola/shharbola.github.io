@@ -9,4 +9,4 @@ date: 2020-10-1
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-1. S. Harbola,and V. Coors, “Visual analysis of geospatial sensor data streamsr”, In Proceedings of windycites winter school @ University of Stuttgart, 15-18 January 2019, Stuttgart, Germany.  
+1. S. Harbola,and V. Coors, “Visual analysis of geospatial sensor data streamsr”, Phd seminar of windycites winter school @ University of Stuttgart, 15-18 January 2019, in Stuttgart, Germany.(http://windycities.de/projects/)  
