@@ -1,7 +1,7 @@
 ---
 title: "Journal articles"
 collection: publications
-date: 2018-2020
+date: 2016 - 2020
 permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: 'This link contains the full list of publication in journals.'
 ---
