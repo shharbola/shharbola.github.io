@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information Technology & Scientific Computing, [University of Stuttgart, Germany](https://www.uni-stuttgart.de/){:target="_blank"}, Oct 2017 - Present
-* Researcher in Department of Computer Science and Surveying Dean of Information Logistics, [University of Applied Sciences, Germany](https://www.hft-stuttgart.de/){:target="_blank"}, Oct 2017 - Present
+* Ph.D in Information Technology & Scientific Computing, [University of Stuttgart, Germany](https://www.uni-stuttgart.de/){:target="_blank"}, Oct 2017 - Mar 2021
+* Researcher in Department of Computer Science and Surveying Dean of Information Logistics, [University of Applied Sciences, Germany](https://www.hft-stuttgart.de/){:target="_blank"}, Aug 2017 - Mar 2021
 * M.Tech. in Geoinformatics, [Indian Institute of Technology (IIT) Kanpur, India](http://www.iitk.ac.in/){:target="_blank"}, 2014 - 2016 (8/10.0)
 * B.Tech. in Computer Science Engineering, [Uttarakhand Technical University DDun, India](http://www.uktech.ac.in/uksee/){:target="_blank"}, 2007 - 2011 (80%, branch-topper with honors)
 
 
 Work experience
 ======
-* 10/2017 - Present: Research Associate (Information Technology and Data Science)
+* 08/2017 - 03/2021: Research Associate (Information Technology and Data Science)
   * University of Stuttgart, Germany
   * Duties included: Data analytics and visualisation, project managerment, international collaboration, supervision
   
