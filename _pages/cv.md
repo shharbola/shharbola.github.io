@@ -39,14 +39,8 @@ Work experience
 * 05/2011 - 06/2014: Teaching and Research Assistant
   * Engineering & Management College Uttarakhand, India
   * Duties included: Lecturer, class assigmnets and student projects
--->  
+ 
   
-Skills
-======
-* Programming: C++, Python, MATLAB, FORTRAN, git
-* Machine learning: Python, TensorFlow, Keras, Scikit-learn
-* Computational fluid dynamics: Ansys workbench, gmsh, ICEM
-
 
 Awards and achievement
 ======
@@ -58,6 +52,13 @@ Awards and achievement
 * 07/2014 – 11/2014:	Member, Cultural Secretary of Girl's Hall of Residence, HEC Member at IIT Kanpur
 * 02/2011 & 02/2012: Qualified [Graduate Aptitude Test in Engineering (GATE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering){:target="_blank"} - 2011-12 examination
 * 02/2008 and 02/2010: Member of College Technical committee for 2 years 
+--> 
+
+Skills
+======
+* Programming: C++, Python, MATLAB, FORTRAN, git
+* Machine learning: Python, TensorFlow, Keras, Scikit-learn
+* Computational fluid dynamics: Ansys workbench, gmsh, ICEM
 
 
 Management and leadership
