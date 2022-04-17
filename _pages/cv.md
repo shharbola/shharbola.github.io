@@ -2,13 +2,14 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
+<!---
 Education
 ======
 * Ph.D in Information Technology & Scientific Computing, [University of Stuttgart, Germany](https://www.uni-stuttgart.de/){:target="_blank"}, Oct 2017 - Mar 2021
@@ -38,7 +39,7 @@ Work experience
 * 05/2011 - 06/2014: Teaching and Research Assistant
   * Engineering & Management College Uttarakhand, India
   * Duties included: Lecturer, class assigmnets and student projects
-  
+-->  
   
 Skills
 ======
