@@ -22,7 +22,7 @@ Professional and research history
 
 **Innovating with AI: Transforming Products, Business, and Sustainability**
 
- ## 🚀 Product Modeling
+ **🚀 Product Modeling**
  
 <p> 
 <p>*Developed an ML-based product quality predictor using Python & MLOps, enabling cost-effective and data-driven decision-making.</p>
@@ -31,14 +31,14 @@ Professional and research history
 <p>*Designed an LLM-powered smart search agent, enhancing information retrieval for key stakeholders.</p>
 </p>
 
- ## 📊 Business Analytics & Optimization
+ **📊 Business Analytics & Optimization**
  
 <p>
 <p> *Transformed raw data into actionable insights, providing data visualization and analysis to enhance business strategies for non-technical teams.</p>
 <p> *Developed business process optimization frameworks, integrating team feedback to improve decision-making and operational efficiency.</p>
 </p>
 
- ## 🌍 Green & Sustainable AI Solutions
+ **🌍 Green & Sustainable AI Solutions**
  
 <p>
 <p> *Created an interactive air quality assessment portal with temporal analysis, offering real-time environmental insights.</p>
