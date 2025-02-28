@@ -8,16 +8,53 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Shubhi, currently working as a Researcher and Data Scientist in a German MNC in Germnay. I have completed my Ph.D. in Information Technology at the University of Stuttgart, Germany. I am presently mixing data analytics with Machine Learning to solve real-life problems with machine advancement and human intelligence. Machine Learning, Visual Analysis, Scientific Computing, and Remote Sensing are the areas whose specialization I have done — absorbed much of the existing knowledge in the above domains so that I could propose some new solutions. I am looking for "Opportunities to apply in daily life problems in academic industries, business, research," and to explore more within my discipline. Currently, I am working with the data analytics and Visualization domain for Personal Care and Nutrition.
-In the past I have used environmental data (real time multiple sensors), suggested some air quality improvement solutions for Stuttgart (as a case study) used my skills of Machine learning (ML), Data visualization, and Visual Analytics.
+Hi ! <p>I am a Principal Consultant, Engineer, and AI Innovator, with 11+ years of experience in AI, scientific computing, and machine learning. I hold a Doctorate in Computer Science & IT from the University of Stuttgart, Germany, awarded under the WindyCities Research Scholarship.
+
+Passionate about data-driven innovation, I specialize in intelligent automation, analytics, and AI-powered solutions. I am an active member of WiDS, IEEE Europe, and IEEE Women in Engineering, advocating for technological advancements and inclusivity.
+
+With an M.Tech from IIT Kanpur and a B.Tech in Computer Science, I thrive on solving complex challenges at the intersection of AI and human intelligence. Let’s connect! 🚀 </p>
 
 Professional and research history
 ======
-I am a researcher \& data scientist, working for Personal Care and Nutrition in a German multinational chemical company (BASF, Germany). I had the opportunity to work for the Data Science for Material (DSM) in BASF too.
-I have worked as a Researcher, Ph.D. student in Information Technology at the University of Stuttgart, Germany,  where I focused on temporal predictions and visual analyses related problems and developed some novel data-driven methods based on Machine Learning and reduce-ordered modeling. Also worked as a researcher in the University of Applied Sciences, Stuttgart (HFT Stuttgart), Germany. I have designed some deep neural network, recurrent neural network, and reservoir computing models, where I heavily rely on Python, MATLAB, Dash, Tensor flow, Keras, and associated libraries.
-I have worked on some projects in Visual analysis of geospatial sensor data streams, where my prime aim was to develop data-driven models for wind flow prediction in a new-type windmills and sensor installations for future power plant establishment.
 
-Meteorological data and its effect have been the researchers' attention of the smart city planning for thorough utilization and management of resources, that help in effective government management, convenient public services, and sustainable industrial development. Renewable energy sources like wind and solar are being integrated into city planning to improve environmental quality. Wind energy is utilized through wind turbines and requires foreknowledge of wind parameters like speed and direction. I developed a framework to predict dominant wind speed and direction for a time-series wind dataset that could be incorporated into city planning for selecting suitable sites for wind turbines. 
-Moreover, I worked on some classification based models and then explored the machine learning-based methods, including multiple CNN, decision tree, random forest, and deep neural network. My research work was not only limited to temporal prediction model development. Moreover, I have also performed interactive visual data analytics for the high-fidelity temporal measurements collected by the meteorological data simulation and sensors. During the data analytics part, I developed different toolkits within Tableau, MATLAB, and Python to perform a variety of tasks such as probability analysis, eigenvalue decomposition, correlations, and statistical analysis. 
+**Unlocking AI-Driven Innovation – Let's Build the Future Together!**
+<p>I am a Researcher & Data Scientist with a passion for Artificial Intelligence, Machine Learning, and Data Analytics, currently working in CT, Hannover, DE. Also worked for BASF, Germany. I have contributed to product modelling, business analyst, green solutions development and Data Science consulting, applying cutting-edge AI solutions to enhance our customer digital experience and research and development.</p>
 
-I obtained a Master of Technology (M.Tech) degree from IIT Kanpur, India, in Geoinformatics, where I had some great opportunities to dive deep into the development and  applictions of information science infrastructures to address the problems of geography, cartography, geosciences, and engineering. I learned energy resources modeling from a technical, economic, and environmental perspective. I have completed my Bachelor of Technology (B.Tech) in Information Technology from Uttarakhand Technical University, India. 
+**Innovating with AI: Transforming Products, Business, and Sustainability**
+**🚀 Product Modeling**
+Developed an ML-based product quality predictor using Python & MLOps, enabling cost-effective and data-driven decision-making.
+Built forecasting models for smart inventory management and sales predictions, optimizing supply chain efficiency.
+Streamlined business operations, reducing 50+ man-hours per month through automation and advanced analytics.
+Designed an LLM-powered smart search agent, enhancing information retrieval for key stakeholders.
+**📊 Business Analytics & Optimization**
+Transformed raw data into actionable insights, providing data visualization and analysis to enhance business strategies for non-technical teams.
+Developed business process optimization frameworks, integrating team feedback to improve decision-making and operational efficiency.
+**🌍 Green & Sustainable AI Solutions**
+Created an interactive air quality assessment portal with temporal analysis, offering real-time environmental insights.
+Engineered AI-driven models (XGBoost, CNNs, LSTMs, RF, SVM) to support smart city planning, integrating Explainable AI (XAI) for transparency.
+Led the transition to eco-friendly solutions, replacing chemical compounds with bio-based alternatives through AI-driven research.
+AQTA – Developed and deployed a live air quality analysis demo on GitHub using Python & D3.js, promoting environmental awareness through technology.
+🌟 Bridging AI, Business, and Sustainability to Drive Innovation. Let’s connect and build intelligent, future-ready solutions! 🚀
+
+
+With a Ph.D. in Information Technology from the University of Stuttgart, Germany, my expertise lies in LLMs, temporal predictions, visual analytics, and machine learning-driven modeling. I have developed novel AI-based methods and reduced-order modeling techniques, combining deep learning with analytical frameworks to solve complex challenges. My research extended to the University of Applied Sciences, Stuttgart (HFT Stuttgart, Germany), where I designed and implemented deep neural networks, recurrent neural networks, and reservoir computing models, leveraging tools such as Python, MATLAB, Dash, TensorFlow, and Keras.
+
+I have worked on geospatial sensor data analysis, where I developed data-driven wind flow prediction models for smart power plants and next-generation wind turbines. My work also focused on smart city planning, integrating renewable energy sources like wind and solar to drive sustainable urban development. One of my key contributions includes building an AI-powered framework to predict wind speed and direction, aiding urban planners in selecting optimal sites for wind energy infrastructure.
+
+In addition to predictive modeling, I specialize in interactive visual data analytics, utilizing Tableau, MATLAB, and Python for statistical analysis, probability modeling, eigenvalue decomposition, and correlation studies. I have also worked extensively with classification-based models, implementing CNNs, decision trees, random forests, and deep neural networks to develop robust AI solutions.
+
+I hold a Master of Technology (M.Tech) in Geoinformatics from IIT Kanpur, India, where I explored geospatial computing, energy resource modeling, and data science applications in engineering and environmental science. Additionally, I earned my Bachelor of Technology (B.Tech) in Information Technology from Uttarakhand Technical University, India.
+
+**Why Work With Me?**
+✔ Expertise in AI, Machine Learning, and Data Science
+✔ Strong background in scientific computing, predictive analytics, and AI-driven decision-making
+✔ Proven experience in developing real-world AI solutions for industries like energy, materials, and smart cities
+✔ Advanced skills in Python, TensorFlow, Keras, MATLAB, and visualization tools like Tableau
+✔ Research-driven, problem-solving mindset with a deep focus on innovation and efficiency
+
+🔍 Looking for a dedicated AI and Data Science expert to drive innovation and deliver impactful solutions? Let's connect and explore how my expertise can contribute to your next big challenge.
+
+📩 Reach out today! 🚀
+[Email Me](drshoffical@gmail.com)
+
+
