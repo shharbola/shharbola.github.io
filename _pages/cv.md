@@ -56,11 +56,12 @@ Awards and achievement
 
 Skills
 ======
-* Programming: C++, Python, MATLAB, FORTRAN, git
-* Machine learning: Python, TensorFlow, Keras, Scikit-learn
-* Computational fluid dynamics: Ansys workbench, gmsh, ICEM
+* Programming: Python, MATLAB, C, git, C++, ArcGIS, G.Earth, MATLAB
+* ML/AI: Python, TensorFlow, Keras, Scikit-learn, LLM, Numpy, Pandas, Altair, Bokeh, Streamlit
+* softwares: Ansys workbench, PowerBI, Copilot, Tableau, MLOps(Azure), Overleaf, Latex
+  
 
-
+<!---
 Management and leadership
 ======
 * Managed a large-scale project for Supercomputing for 2.5 years
@@ -68,28 +69,31 @@ Management and leadership
 * Led a small team for research in wind prediction modelling and machine learning
 * Managed inter-colleges fests and events organisation with college committee for more than 3 years
 
-
+--> 
 Languages 
 ======
 * English (Fluent, C2)
-* German (Beginner, A2)
+* German (Advance, A2)
 * Hindi (Native, C2)
 * Kumaoni (Native, C2)
 
-
+<!---
 Certification Courses 
 ======
  * Machine Learning: Univeristy level courses and cleared the exam with good grades
  * Cray XC40 Workshop on Optimization at Scale at HLRS Stuttgart, 20-22 September 2018.
  * FORTRAN for Scientific Computing at HLRS, Stuttgart, 20-24 March 2018
+ --> 
 
 
 Publications
 ======
+
+ <!---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  --> 
 
 Journal Referee 
 ======
