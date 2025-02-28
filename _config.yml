@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shubhi Harbola"
+  name             : "Dr. Shubhi Harbola"
   avatar           : "profile.png" #"Sandeep.png"
-  bio              : " Data Scientist and ML Engineer. Ph.D. : University of Stuttgart, Germany. M.Tech: Indian Institute of Technology Kanpur (IITK) India  "
+  bio              : " Experienced AI Expert, Data Scientist/ML Engineer. Ph.D. : University of Stuttgart, Germany. M.Tech: Indian Institute of Technology Kanpur (IITK) India  "
   location         : "Germany"
   employer         : "http://windycities.de/projects/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        : #""
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "shubhi-harbola-uni-stuttgart"
+  linkedin         :  "drshubhiharbola"
   orcid            : # "0000-0002-1858-1734"
   pinterest        :
   soundcloud       :
