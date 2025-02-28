@@ -68,7 +68,7 @@ Professional and research history
 </p>
 
 <p>
-  I hold a Master of Technology (M.Tech) in Geoinformatics from IIT Kanpur, India, where I explored geospatial computing, energy resource modeling, and data science applications in engineering and environmental science. Additionally, I earned my Bachelor of Technology (B.Tech) in Information Technology from Uttarakhand Technical University, India. 
+  I hold a Master of Technology (M.Tech) in Geoinformatics from IIT Kanpur, India, where I explored geospatial computing, energy resource modeling, and data science applications in engineering and environmental science. Additionally, I earned my Bachelor of Technology (B.Tech) in Computer Science Engineering.
 </p>
 
 **Why Work With Me?**
