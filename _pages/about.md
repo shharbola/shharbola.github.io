@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- Ramramji ! Hi ! Namaskar!Servus 
+ Ramramji !! Namaskar!! Servus 
 
 <p>
 I am a Principal Consultant, ML Engineer, and AI Innovator, with 11+ years of experience in AI, scientific computing, visual analytics and machine learning. I hold a Doctorate in Computer Science & Informatics from the University of Stuttgart, Germany, awarded under the WindyCities Research Scholarship.
