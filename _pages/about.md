@@ -23,7 +23,7 @@ Professional and research history
 
 **Unlocking AI-Driven Innovation – Let's Build the Future Together!**
 <p>
-  I am a Researcher & Data Scientist with a passion for Artificial Intelligence, Machine Learning, and Data Analytics, currently working in Continental, Hannover, DE. Also worked for BASF, University of Stuttgart, and University of Applied Sciences in Germany. I have contributed to product modelling, business analyst, green solutions development and Data Science consulting, applying cutting-edge AI solutions to enhance our customer digital experience and research and development.
+  I am a Researcher & Data Scientist with a passion for Artificial Intelligence, Machine Learning, and Data Analytics, currently working in Continental, Hannover, DE. Also worked for BASF, University of Stuttgart, and University of Applied Sciences in Germany, and in various instiutations of india. I have contributed to product modelling, business analyst, green solutions development and Data Science consulting, applying cutting-edge AI solutions to enhance our stakeholders and targeted user digital experiences, innovation and development.
 </p>
 
 **Innovating with AI: Transforming Products, Business, and Sustainability**
@@ -68,7 +68,7 @@ Professional and research history
 </p>
 
 <p>
-  Being IIT Kanpur India, alumnus,  where I explored geospatial computing, energy resource modeling, visual analytics and data science applications in engineering and environmental science. Additionally, I earned my Bachelor of Technology (B.Tech) in Computer Science Engineering.
+  Being IIT Kanpur India, alumnus i explored scientific computing, Geospatial data and time series analyses, energy resource modeling, visual analytics and data science applications in engineering and environmental science. Additionally, I earned my Bachelor of Technology (B.Tech) in Computer Science Engineering.
 </p>
 
 **Why Work With Me?**
