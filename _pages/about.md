@@ -23,7 +23,7 @@ Professional and research history
 
 **Unlocking AI-Driven Innovation – Let's Build the Future Together!**
 <p>
-  I am a Researcher & Data Scientist with a passion for Artificial Intelligence, Machine Learning, and Data Analytics, currently working in CT, Hannover, DE. Also worked for BASF, Germany. I have contributed to product modelling, business analyst, green solutions development and Data Science consulting, applying cutting-edge AI solutions to enhance our customer digital experience and research and development.
+  I am a Researcher & Data Scientist with a passion for Artificial Intelligence, Machine Learning, and Data Analytics, currently working in Continental, Hannover, DE. Also worked for BASF, University of Stuttgart, and University of Applied Sciences in Germany. I have contributed to product modelling, business analyst, green solutions development and Data Science consulting, applying cutting-edge AI solutions to enhance our customer digital experience and research and development.
 </p>
 
 **Innovating with AI: Transforming Products, Business, and Sustainability**
