@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Ramramji ! Hi ! Namaskar 
+ Ramramji ! Hi ! Namaskar!Servus 
 
 <p>
-I am a Principal Consultant, Engineer, and AI Innovator, with 11+ years of experience in AI, scientific computing, and machine learning. I hold a Doctorate in Computer Science & IT from the University of Stuttgart, Germany, awarded under the WindyCities Research Scholarship.
+I am a Principal Consultant, ML Engineer, and AI Innovator, with 11+ years of experience in AI, scientific computing, visual analytics and machine learning. I hold a Doctorate in Computer Science & Informatics from the University of Stuttgart, Germany, awarded under the WindyCities Research Scholarship.
 
 Passionate about data-driven innovation, I specialize in intelligent automation, analytics, and AI-powered solutions. I am an active member of WiDS, IEEE Europe, and IEEE Women in Engineering, advocating for technological advancements and inclusivity.
 
-With an M.Tech from IIT Kanpur and a B.Tech in Computer Science, I thrive on solving complex challenges at the intersection of AI and human intelligence. Let’s connect! 🚀 
+Being an IIT Kanpur alumnus with research and innovation aptitude, I thrive on solving complex challenges at the intersection of AI and human intelligence. Let’s connect! 🚀 
 </p>
 
 Professional and research history
@@ -56,7 +56,7 @@ Professional and research history
  **🌟 Bridging AI, Business, and Sustainability to Drive Innovation. Let’s connect and build intelligent, future-ready solutions! 🚀**
 
 <p>
-  With a Ph.D. in Information Technology from the University of Stuttgart, Germany, my expertise lies in LLMs, temporal predictions, visual analytics, and machine learning-driven modeling. I have developed novel AI-based methods and reduced-order modeling techniques, combining deep learning with analytical frameworks to solve complex challenges. My research extended to the University of Applied Sciences, Stuttgart (HFT Stuttgart, Germany), where I designed and implemented deep neural networks, recurrent neural networks, and reservoir computing models, leveraging tools such as Python, MATLAB, Dash, TensorFlow, and Keras.
+  With a Ph.D. in CSE & Informatics from the University of Stuttgart, Germany, my expertise lies in LLMs, temporal predictions, visual analytics, and machine learning-driven modeling. I have developed novel AI-based methods and reduced-order modeling techniques, combining deep learning with analytical frameworks to solve complex challenges. My research extended to the University of Applied Sciences, Stuttgart (HFT Stuttgart, Germany), where I designed and implemented deep neural networks, recurrent neural networks, and reservoir computing models, leveraging tools such as Python, MATLAB, Dash, TensorFlow, and Keras.
 </p>
 
 <p> 
@@ -68,7 +68,7 @@ Professional and research history
 </p>
 
 <p>
-  I hold a Master of Technology (M.Tech) in Geoinformatics from IIT Kanpur, India, where I explored geospatial computing, energy resource modeling, and data science applications in engineering and environmental science. Additionally, I earned my Bachelor of Technology (B.Tech) in Computer Science Engineering.
+  Being IIT Kanpur India, alumnus,  where I explored geospatial computing, energy resource modeling, visual analytics and data science applications in engineering and environmental science. Additionally, I earned my Bachelor of Technology (B.Tech) in Computer Science Engineering.
 </p>
 
 **Why Work With Me?**
