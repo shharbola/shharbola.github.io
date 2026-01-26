@@ -1,0 +1,219 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* 
+  Bold & Modern Tech Professional Design System
+  Electric cyan accents with dark-first approach
+  All colors MUST be HSL.
+*/
+
+:root {
+  /* Light mode - Clean with bold accents */
+  --background: hsl(220 20% 97%);
+  --foreground: hsl(220 30% 10%);
+  --card: hsl(0 0% 100%);
+  --card-foreground: hsl(220 30% 10%);
+  --popover: hsl(0 0% 100%);
+  --popover-foreground: hsl(220 30% 10%);
+  
+  /* Electric cyan primary */
+  --primary: hsl(190 95% 45%);
+  --primary-foreground: hsl(220 30% 5%);
+  
+  --secondary: hsl(220 15% 92%);
+  --secondary-foreground: hsl(220 30% 10%);
+  --muted: hsl(220 15% 95%);
+  --muted-foreground: hsl(220 10% 45%);
+  --accent: hsl(190 95% 95%);
+  --accent-foreground: hsl(190 95% 30%);
+  --destructive: hsl(0 84% 60%);
+  --destructive-foreground: hsl(0 0% 98%);
+  --border: hsl(220 15% 88%);
+  --input: hsl(220 15% 88%);
+  --ring: hsl(190 95% 45%);
+  --radius: 0.75rem;
+  
+  /* Gradient accents */
+  --gradient-primary: linear-gradient(135deg, hsl(190 95% 45%), hsl(260 85% 60%));
+  --gradient-secondary: linear-gradient(135deg, hsl(190 95% 45%), hsl(170 80% 45%));
+  
+  --sidebar-background: hsl(0 0% 98%);
+  --sidebar-foreground: hsl(220 30% 26%);
+  --sidebar-primary: hsl(190 95% 45%);
+  --sidebar-primary-foreground: hsl(0 0% 98%);
+  --sidebar-accent: hsl(220 15% 95%);
+  --sidebar-accent-foreground: hsl(220 30% 10%);
+  --sidebar-border: hsl(220 13% 91%);
+  --sidebar-ring: hsl(190 95% 45%);
+
+  /* Tech Design System Variables */
+  --context-card-border: hsl(220 15% 92%);
+  --ds-cyan-500: hsl(190 95% 45%);
+  --ds-cyan-600: hsl(190 95% 38%);
+  --ds-purple-500: hsl(260 85% 60%);
+  --ds-purple-600: hsl(260 85% 50%);
+  --ds-gray-100: hsl(220 20% 97%);
+  --ds-gray-400: hsl(220 15% 88%);
+  --ds-gray-700: hsl(220 10% 45%);
+  --ds-gray-1000: hsl(220 30% 10%);
+  --ds-gray-1000-h: hsl(220 20% 25%);
+  --ds-gray-alpha-200: hsla(220 20% 0% / 0.06);
+  --ds-gray-alpha-400: hsla(220 20% 0% / 0.1);
+  --ds-background-100: hsl(0 0% 100%);
+  --ds-focus-color: var(--ring);
+  --ds-focus-ring: 0 0 0 2px var(--ds-background-100), 0 0 0 4px var(--ds-focus-color);
+  --ds-shadow-border: 0 0 0 1px hsla(220 20% 0% / 0.06);
+  --ds-shadow-small: 0px 2px 4px hsla(220 20% 0% / 0.05);
+  --ds-shadow-border-small: var(--ds-shadow-border), var(--ds-shadow-small);
+  --ds-shadow-glow: 0 0 40px hsla(190 95% 45% / 0.15);
+}
+
+.dark {
+  /* Dark mode - Bold & immersive */
+  --background: hsl(220 25% 6%);
+  --foreground: hsl(220 10% 95%);
+  --card: hsl(220 25% 9%);
+  --card-foreground: hsl(220 10% 95%);
+  --popover: hsl(220 25% 9%);
+  --popover-foreground: hsl(220 10% 95%);
+  
+  /* Electric cyan stays vibrant */
+  --primary: hsl(190 95% 55%);
+  --primary-foreground: hsl(220 30% 5%);
+  
+  --secondary: hsl(220 20% 15%);
+  --secondary-foreground: hsl(220 10% 95%);
+  --muted: hsl(220 20% 12%);
+  --muted-foreground: hsl(220 10% 60%);
+  --accent: hsl(220 25% 14%);
+  --accent-foreground: hsl(190 95% 60%);
+  --destructive: hsl(0 62% 35%);
+  --destructive-foreground: hsl(0 0% 98%);
+  --border: hsl(220 20% 18%);
+  --input: hsl(220 20% 18%);
+  --ring: hsl(190 95% 55%);
+  
+  --gradient-primary: linear-gradient(135deg, hsl(190 95% 55%), hsl(260 85% 65%));
+  --gradient-secondary: linear-gradient(135deg, hsl(190 95% 55%), hsl(170 80% 50%));
+  
+  --sidebar-background: hsl(220 25% 8%);
+  --sidebar-foreground: hsl(220 10% 80%);
+  --sidebar-primary: hsl(190 95% 55%);
+  --sidebar-primary-foreground: hsl(220 30% 5%);
+  --sidebar-accent: hsl(220 20% 15%);
+  --sidebar-accent-foreground: hsl(220 10% 95%);
+  --sidebar-border: hsl(220 20% 18%);
+  --sidebar-ring: hsl(190 95% 55%);
+
+  /* Tech Design System Variables - Dark Mode */
+  --context-card-border: hsl(220 20% 18%);
+  --ds-cyan-500: hsl(190 95% 55%);
+  --ds-cyan-600: hsl(190 95% 48%);
+  --ds-purple-500: hsl(260 85% 65%);
+  --ds-purple-600: hsl(260 85% 55%);
+  --ds-gray-100: hsl(220 25% 10%);
+  --ds-gray-400: hsl(220 20% 18%);
+  --ds-gray-700: hsl(220 10% 55%);
+  --ds-gray-1000: hsl(220 10% 95%);
+  --ds-gray-1000-h: hsl(220 10% 80%);
+  --ds-gray-alpha-200: hsla(220 10% 100% / 0.06);
+  --ds-gray-alpha-400: hsla(220 10% 100% / 0.1);
+  --ds-background-100: hsl(220 25% 6%);
+  --ds-shadow-border: 0 0 0 1px hsla(220 10% 100% / 0.08);
+  --ds-shadow-small: 0px 2px 4px hsla(220 25% 0% / 0.3);
+  --ds-shadow-border-small: var(--ds-shadow-border), var(--ds-shadow-small);
+  --ds-shadow-glow: 0 0 60px hsla(190 95% 55% / 0.2);
+}
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-sidebar: var(--sidebar-background);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Shugar Design System Colors */
+  --color-context-card-border: var(--context-card-border);
+  --color-red-800: var(--ds-red-800);
+  --color-red-900: var(--ds-red-900);
+  --color-amber-800: var(--ds-amber-800);
+  --color-amber-850: var(--ds-amber-850);
+  --color-gray-100: var(--ds-gray-100);
+  --color-gray-400: var(--ds-gray-400);
+  --color-gray-700: var(--ds-gray-700);
+  --color-gray-1000: var(--ds-gray-1000);
+  --color-gray-1000-h: var(--ds-gray-1000-h);
+  --color-gray-alpha-200: var(--ds-gray-alpha-200);
+  --color-gray-alpha-400: var(--ds-gray-alpha-400);
+  --color-background-100: var(--ds-background-100);
+  --shadow-focus-ring: var(--ds-focus-ring);
+  --shadow-border-small: var(--ds-shadow-border-small);
+
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+}
+
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .hide-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
