@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig(({ mode }) => ({
-  base: "/websiteV3/",   // 👈 THIS LINE FIXES GITHUB PAGES
+  base: "./",   // 👈 THIS LINE FIXES GITHUB PAGES
 
   server: {
     host: "::",
