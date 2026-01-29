@@ -113,7 +113,7 @@ export const education = [
   {
     degree: 'Ph.D., Computer Science (Informatics)',
     institution: 'Universität Stuttgart, Germany',
-    year: '2017-2021', // 2017-2021
+    year: '', // 2017-2021
     grade: '', // 1.0 (Highest Distinction)
     focus: 'Deep learning based prediction and visual analytics for temporal data'
   },
