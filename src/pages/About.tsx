@@ -1,5 +1,14 @@
 import { motion } from 'framer-motion';
-import { Github, Linkedin, Twitter, MapPin, GraduationCap, Briefcase, Award, BookOpen } from 'lucide-react';
+import {
+  Github,
+  Linkedin,
+  Twitter,
+  MapPin,
+  GraduationCap,
+  Briefcase,
+  Award,
+  BookOpen,
+} from 'lucide-react';
 import { professionalInfo, education, experience, publications } from '@/data/professional';
 import { Separator } from '@/components/ui/separator';
 import { SEOHead } from '@/components/seo/SEOHead';
@@ -15,10 +24,12 @@ export default function About() {
     <>
       <SEOHead
         title="About"
-        description={`Learn about ${professionalInfo.name}, ${professionalInfo.title}. ${professionalInfo.biography.split('\n\n')[0]}`}
+        description={`Learn about ${professionalInfo.name}, ${professionalInfo.title}. ${
+          professionalInfo.biography.split('\n\n')[0]
+        }`}
         image={profilePhoto}
       />
-      
+
       <div className="min-h-screen">
         {/* Hero Section */}
         <section className="py-24 md:py-32 px-6 lg:px-8 border-b border-border">
@@ -58,9 +69,9 @@ export default function About() {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-background/20 via-transparent to-transparent" />
                 </div>
-                
+
                 {/* Social Links */}
-                <div className="flex items-center gap-4">
+                <div className="flex items-center gap-4 flex-wrap">
                   {professionalInfo.socialLinks.github && (
                     <a
                       href={professionalInfo.socialLinks.github}
@@ -68,10 +79,12 @@ export default function About() {
                       rel="noopener noreferrer"
                       className="p-3 border border-border rounded-lg hover:bg-accent hover:border-primary/50 transition-all"
                       aria-label="GitHub"
+                      title="GitHub"
                     >
                       <Github className="size-5" />
                     </a>
                   )}
+
                   {professionalInfo.socialLinks.linkedin && (
                     <a
                       href={professionalInfo.socialLinks.linkedin}
@@ -79,10 +92,12 @@ export default function About() {
                       rel="noopener noreferrer"
                       className="p-3 border border-border rounded-lg hover:bg-accent hover:border-primary/50 transition-all"
                       aria-label="LinkedIn"
+                      title="LinkedIn"
                     >
                       <Linkedin className="size-5" />
                     </a>
                   )}
+
                   {professionalInfo.socialLinks.twitter && (
                     <a
                       href={professionalInfo.socialLinks.twitter}
@@ -90,19 +105,37 @@ export default function About() {
                       rel="noopener noreferrer"
                       className="p-3 border border-border rounded-lg hover:bg-accent hover:border-primary/50 transition-all"
                       aria-label="Twitter"
+                      title="Twitter"
                     >
                       <Twitter className="size-5" />
                     </a>
                   )}
+
+                  {/* ResearchGate */}
                   {professionalInfo.socialLinks.researchgate && (
                     <a
                       href={professionalInfo.socialLinks.researchgate}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-3 border border-border rounded-lg hover:bg-accent hover:border-primary/50 transition-all"
-                      aria-label="researchgate"
+                      aria-label="ResearchGate"
+                      title="ResearchGate"
                     >
-                      <Twitter className="size-5" />
+                      <GraduationCap className="size-5" />
+                    </a>
+                  )}
+
+                  {/* Google Scholar */}
+                  {professionalInfo.socialLinks.googleScholar && (
+                    <a
+                      href={professionalInfo.socialLinks.googleScholar}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="p-3 border border-border rounded-lg hover:bg-accent hover:border-primary/50 transition-all"
+                      aria-label="Google Scholar"
+                      title="Google Scholar"
+                    >
+                      <BookOpen className="size-5" />
                     </a>
                   )}
                 </div>
@@ -187,7 +220,9 @@ export default function About() {
                   <div className="p-6 rounded-xl bg-card border border-border">
                     <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-2 mb-2">
                       <h4 className="text-lg font-semibold">{edu.degree}</h4>
-                      <Badge variant="outline" className="w-fit">{edu.year}</Badge>
+                      <Badge variant="outline" className="w-fit">
+                        {edu.year}
+                      </Badge>
                     </div>
                     <p className="text-primary font-medium mb-1">{edu.institution}</p>
                     <p className="text-sm text-muted-foreground mb-2">Grade: {edu.grade}</p>
@@ -214,10 +249,14 @@ export default function About() {
                   <div className="p-6 rounded-xl bg-card border border-border">
                     <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-2 mb-2">
                       <h4 className="text-lg font-semibold">{exp.title}</h4>
-                      <Badge variant="outline" className="w-fit">{exp.period}</Badge>
+                      <Badge variant="outline" className="w-fit">
+                        {exp.period}
+                      </Badge>
                     </div>
                     <p className="text-primary font-medium mb-3">{exp.company}</p>
-                    <p className="text-muted-foreground font-light leading-relaxed">{exp.description}</p>
+                    <p className="text-muted-foreground font-light leading-relaxed">
+                      {exp.description}
+                    </p>
                   </div>
                 </ScrollReveal>
               ))}
@@ -254,7 +293,9 @@ export default function About() {
               <div className="flex items-center gap-3 mb-8">
                 <BookOpen className="size-6 text-primary" />
                 <h3 className="text-2xl md:text-3xl font-bold">Selected Publications</h3>
-                <Badge variant="secondary" className="ml-auto">13 Total</Badge>
+                <Badge variant="secondary" className="ml-auto">
+                  13 Total
+                </Badge>
               </div>
             </ScrollReveal>
             <div className="space-y-4">
@@ -265,7 +306,9 @@ export default function About() {
                     <div className="flex flex-wrap items-center gap-2 text-sm text-muted-foreground">
                       <span>{pub.journal}</span>
                       <span>•</span>
-                      <Badge variant="outline" className="text-xs">{pub.year}</Badge>
+                      <Badge variant="outline" className="text-xs">
+                        {pub.year}
+                      </Badge>
                     </div>
                   </div>
                 </ScrollReveal>
