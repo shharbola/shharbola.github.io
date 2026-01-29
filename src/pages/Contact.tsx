@@ -1,24 +1,34 @@
-import { motion } from 'framer-motion';
-import { Mail, MapPin, Sparkles, Linkedin, Calendar } from 'lucide-react';
-import { professionalInfo } from '@/data/professional';
-import { ContactForm } from '@/components/forms/ContactForm';
-import { Separator } from '@/components/ui/separator';
-import { SEOHead } from '@/components/seo/SEOHead';
-import { Badge } from '@/components/ui/badge';
-import { Button } from '@/components/ui/button';
+import { motion } from "framer-motion";
+import {
+  Mail,
+  MapPin,
+  Sparkles,
+  Linkedin,
+  Calendar,
+  GraduationCap,
+  BookOpen,
+  Link as LinkIcon,
+} from "lucide-react";
+import { professionalInfo } from "@/data/professional";
+import { ContactForm } from "@/components/forms/ContactForm";
+import { Separator } from "@/components/ui/separator";
+import { SEOHead } from "@/components/seo/SEOHead";
+import { Badge } from "@/components/ui/badge";
 
 /**
  * Contact page with form and contact information
- * Features validated contact form and availability status
+ * Safe links + optional extras (Scholar/ResearchGate/Calendly)
  */
 export default function Contact() {
+  const links = professionalInfo.socialLinks || {};
+
   return (
     <>
       <SEOHead
         title="Contact"
         description={`Get in touch with ${professionalInfo.name} for AI consulting inquiries, speaking opportunities, and collaboration. ${professionalInfo.availability}`}
       />
-      
+
       <div className="min-h-screen">
         {/* Hero Section */}
         <section className="py-24 md:py-32 px-6 lg:px-8 border-b border-border">
@@ -28,18 +38,20 @@ export default function Contact() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.4 }}
             >
-              <Badge 
-                variant="outline" 
+              <Badge
+                variant="outline"
                 className="px-4 py-2 text-sm font-medium border-primary/50 bg-primary/10 text-primary gap-2 mb-6"
               >
                 <Sparkles className="size-4" />
                 {professionalInfo.availability}
               </Badge>
+
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-4">
-                Let's Connect
+                Let&apos;s Connect
               </h1>
+
               <p className="text-lg md:text-xl text-muted-foreground font-light tracking-wide">
-                Have an AI challenge? Let's discuss how I can help your organization.
+                Have an AI challenge? Let&apos;s discuss how I can help your organization.
               </p>
             </motion.div>
           </div>
@@ -61,11 +73,23 @@ export default function Contact() {
                     Send a Message
                   </h2>
                   <p className="text-muted-foreground font-light">
-                    Fill out the form below and I'll get back to you within 24-48 hours.
+                    Fill out the form below and I&apos;ll get back to you within 24–48 hours.
                   </p>
                 </div>
 
                 <ContactForm />
+
+                {/* Optional fallback */}
+                <p className="text-sm text-muted-foreground font-light">
+                  Prefer email?{" "}
+                  <a
+                    href={`mailto:${professionalInfo.email}`}
+                    className="text-primary hover:underline"
+                  >
+                    Click here to email me
+                  </a>
+                  .
+                </p>
               </motion.div>
 
               {/* Contact Information */}
@@ -106,25 +130,71 @@ export default function Contact() {
                     </div>
                   </div>
 
-                  {/* LinkedIn */}
-                  <div className="flex items-start gap-4">
-                    <div className="p-3 rounded-lg bg-primary/10 text-primary">
-                      <Linkedin className="size-5" />
+                  {/* LinkedIn (safe) */}
+                  {links.linkedin && (
+                    <div className="flex items-start gap-4">
+                      <div className="p-3 rounded-lg bg-primary/10 text-primary">
+                        <Linkedin className="size-5" />
+                      </div>
+                      <div className="space-y-1">
+                        <p className="text-sm font-medium tracking-wide text-muted-foreground">
+                          LinkedIn
+                        </p>
+                        <a
+                          href={links.linkedin}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-base md:text-lg font-light hover:text-primary transition-colors"
+                        >
+                          Connect on LinkedIn
+                        </a>
+                      </div>
                     </div>
-                    <div className="space-y-1">
-                      <p className="text-sm font-medium tracking-wide text-muted-foreground">
-                        LinkedIn
-                      </p>
-                      <a
-                        href={professionalInfo.socialLinks.linkedin}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-base md:text-lg font-light hover:text-primary transition-colors"
-                      >
-                        Connect on LinkedIn
-                      </a>
+                  )}
+
+                  {/* Google Scholar (optional) */}
+                  {links.googleScholar && (
+                    <div className="flex items-start gap-4">
+                      <div className="p-3 rounded-lg bg-primary/10 text-primary">
+                        <BookOpen className="size-5" />
+                      </div>
+                      <div className="space-y-1">
+                        <p className="text-sm font-medium tracking-wide text-muted-foreground">
+                          Google Scholar
+                        </p>
+                        <a
+                          href={links.googleScholar}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-base md:text-lg font-light hover:text-primary transition-colors"
+                        >
+                          View publications
+                        </a>
+                      </div>
                     </div>
-                  </div>
+                  )}
+
+                  {/* ResearchGate (optional) */}
+                  {links.researchgate && (
+                    <div className="flex items-start gap-4">
+                      <div className="p-3 rounded-lg bg-primary/10 text-primary">
+                        <GraduationCap className="size-5" />
+                      </div>
+                      <div className="space-y-1">
+                        <p className="text-sm font-medium tracking-wide text-muted-foreground">
+                          ResearchGate
+                        </p>
+                        <a
+                          href={links.researchgate}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-base md:text-lg font-light hover:text-primary transition-colors"
+                        >
+                          Follow on ResearchGate
+                        </a>
+                      </div>
+                    </div>
+                  )}
 
                   {/* Location */}
                   <div className="flex items-start gap-4">
@@ -150,6 +220,7 @@ export default function Contact() {
                     <Calendar className="size-5 text-primary" />
                     <p className="font-semibold">Engagement Types</p>
                   </div>
+
                   <ul className="space-y-2 text-sm text-muted-foreground">
                     <li className="flex items-center gap-2">
                       <div className="w-1.5 h-1.5 rounded-full bg-primary" />
@@ -161,13 +232,28 @@ export default function Contact() {
                     </li>
                     <li className="flex items-center gap-2">
                       <div className="w-1.5 h-1.5 rounded-full bg-primary" />
-                      Advisory & Fractional Roles
+                      Advisory &amp; Fractional Roles
                     </li>
                     <li className="flex items-center gap-2">
                       <div className="w-1.5 h-1.5 rounded-full bg-primary" />
-                      Speaking & Workshops
+                      Speaking &amp; Workshops
                     </li>
                   </ul>
+
+                  {/* Optional: add a direct link to your booking page if you have it */}
+                  {links.calendly && (
+                    <div className="mt-5 pt-5 border-t border-border">
+                      <a
+                        href={links.calendly}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 text-sm text-primary hover:underline"
+                      >
+                        <LinkIcon className="size-4" />
+                        Book a call (Calendly)
+                      </a>
+                    </div>
+                  )}
                 </div>
               </motion.div>
             </div>
