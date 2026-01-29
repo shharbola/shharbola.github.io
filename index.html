@@ -2,16 +2,37 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My App</title>
-    <meta name="description" content="A beautiful web application" />
-    <meta name="author" content="Lovable" />
 
-    <meta property="og:title" content="My App" />
-    <meta property="og:description" content="A beautiful web application" />
+    <!-- 🔧 GitHub Pages SPA redirect fix -->
+    <script>
+      (function () {
+        const params = new URLSearchParams(window.location.search);
+        const p = params.get("p");
+        if (p) {
+          window.history.replaceState(null, "", decodeURIComponent(p));
+        }
+      })();
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dr. Shubhi Harbola | Principal AI Consultant & Researcher</title>
+
+    <meta
+      name="description"
+      content="Dr. Shubhi Harbola — Principal AI Consultant & Researcher. Transforming complex data into intelligent, real-world AI solutions."
+    />
+    <meta name="author" content="Dr. Shubhi Harbola" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Dr. Shubhi Harbola" />
+    <meta
+      property="og:description"
+      content="Principal AI Consultant & Researcher. AI strategy, deep learning, explainable AI, and real-world impact."
+    />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
 
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@lovable_dev" />
     <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
