@@ -93,7 +93,7 @@ export default function About() {
                     >
                       <Twitter className="size-5" />
                     </a>
-              )}
+                  )}
                   {professionalInfo.socialLinks.researchgate && (
                     <a
                       href={professionalInfo.socialLinks.researchgate}
@@ -104,7 +104,6 @@ export default function About() {
                     >
                       <Twitter className="size-5" />
                     </a>
-                
                   )}
                 </div>
               </motion.div>
