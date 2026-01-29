@@ -5,11 +5,11 @@ export const professionalInfo: ProfessionalInfo = {
   title: 'Principal AI Consultant & Researcher',
   tagline: 'Transforming complex data into intelligent solutions',
   heroIntroduction: 'I help enterprises harness the power of AI and machine learning to solve real-world challenges. With a Ph.D. in Deep Learning and 10+ years of experience spanning research and industry, I specialize in LLM-based agents, predictive analytics, and sustainable AI solutions.',
-  biography: `I'm a Principal AI Consultant with a passion for building intelligent systems that drive measurable business impact. My journey spans from academic research at Universität Stuttgart to leading AI strategy for Fortune 500 companies.
+  biography: `I’m a Principal AI Consultant with a passion for building intelligent systems that deliver measurable business impact. My journey spans academic research at Universität Stuttgart to leading AI strategy and solution delivery for Fortune 500 companies.
 
-With expertise in deep learning, predictive modeling, and explainable AI, I've developed solutions that save organizations millions in operational costs while promoting sustainable practices. My work has been published in top-tier journals and applied to real-world challenges in environmental science, manufacturing, and enterprise operations.
+With deep expertise in deep learning, predictive modeling, and explainable AI, I’ve designed and deployed solutions that have saved organizations millions in operational costs while also advancing sustainable and responsible AI practices. My work has been published in top-tier journals and applied to real-world challenges across environmental science, manufacturing, and enterprise operations.
 
-Currently, I'm open to consulting engagements where I can help organizations leverage AI for strategic advantage—whether that's building LLM-powered assistants, optimizing forecasting systems, or developing sustainable AI solutions.`,
+I’m currently open to consulting engagements as well as research collaborations, where I can contribute to applied AI research, industry–academia partnerships, and impact-driven innovation. I welcome conversations around LLM-powered systems, forecasting and decision intelligence, explainable AI, and sustainable AI solutions—and I’m always happy to connect with like-minded researchers, practitioners, and organizations.`,
   expertise: [
     'LLM & Generative AI',
     'Deep Learning',
@@ -44,14 +44,16 @@ Currently, I'm open to consulting engagements where I can help organizations lev
     'Ph.D. in Deep Learning with highest distinction (1.0) from Universität Stuttgart'
   ],
   location: 'Germany',
-  email: 'hello@shubhiharbola.com',
+  email: 'drshoffical@gmail.com',
   phone: '+49 XXX XXXXXXX',
   availability: 'Open for AI Consulting & Advisory',
   consultingRate: 'Project-based & Hourly',
   socialLinks: {
     github: 'https://github.com/shubhiharbola',
-    linkedin: 'https://linkedin.com/in/shubhiharbola',
-    twitter: 'https://twitter.com/shubhiharbola'
+    linkedin: 'https://www.linkedin.com/in/drshubhiharbola',
+    twitter: 'https://twitter.com/shubhiharbola',
+    researchgate: 'https://www.researchgate.net/profile/Shubhi-Harbola',
+    googleScholar: 'https://scholar.google.com/citations?hl=de&user=cTLLuFgAAAAJ'
   },
   profileImage: '' // Will be set via import
 };
