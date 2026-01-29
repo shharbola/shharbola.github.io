@@ -113,22 +113,22 @@ export const education = [
   {
     degree: 'Ph.D., Computer Science (Informatics)',
     institution: 'Universität Stuttgart, Germany',
-    year: '2017-2021',
-    grade: '1.0 (Highest Distinction)',
+    year: '2017-2021', // 2017-2021
+    grade: '', // 1.0 (Highest Distinction)
     focus: 'Deep learning based prediction and visual analytics for temporal data'
   },
   {
     degree: 'M.Tech., Scientific Computing Engineering',
     institution: 'IIT Kanpur, India',
-    year: '2014-2016',
-    grade: '7.9/10.0',
-    focus: 'Process planning, numerical modeling and computing'
+    year: '', // 2014-2016
+    grade: '', // 7.9/10.0
+    focus: 'Informatics, numerical modeling and computing'
   },
   {
     degree: 'B.Tech., Computer Science Engineering',
     institution: 'UTU UK, India',
-    year: '2007-2011',
-    grade: '80% (Honors)',
+    year: '', // 2007-2011
+    grade: '', // 80% (Honors)
     focus: 'Object oriented programming and applied mathematics'
   }
 ];
