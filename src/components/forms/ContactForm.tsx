@@ -23,7 +23,9 @@ import {
 } from '@/components/ui/select';
 import { Button } from '@/components/ui/button';
 
-// Validation schema with security best practices
+// ✅ PUT YOUR FORMSPREE ENDPOINT HERE
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mwvbblbp';
+
 const contactFormSchema = z.object({
   name: z
     .string()
@@ -47,10 +49,6 @@ const contactFormSchema = z.object({
 
 type ContactFormValues = z.infer<typeof contactFormSchema>;
 
-/**
- * Contact form component with validation and error handling
- * Uses react-hook-form + zod for type-safe validation
- */
 export function ContactForm() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
@@ -67,13 +65,13 @@ export function ContactForm() {
 
   const onSubmit = async (data: ContactFormValues) => {
     setIsSubmitting(true);
-    
+
     try {
-      // Formspree integration - replace YOUR_FORM_ID with your actual form ID
-      const response = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
+      const response = await fetch(FORMSPREE_ENDPOINT, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          Accept: 'application/json',
         },
         body: JSON.stringify({
           name: data.name,
@@ -88,14 +86,10 @@ export function ContactForm() {
         throw new Error('Failed to send message');
       }
 
-      // Show success state
       setIsSuccess(true);
       form.reset();
 
-      // Reset success message after 5 seconds
-      setTimeout(() => {
-        setIsSuccess(false);
-      }, 5000);
+      setTimeout(() => setIsSuccess(false), 5000);
     } catch (error) {
       form.setError('root', {
         message: 'Failed to send message. Please try again.',
@@ -105,7 +99,6 @@ export function ContactForm() {
     }
   };
 
-  // Show success message
   if (isSuccess) {
     return (
       <motion.div
@@ -132,7 +125,6 @@ export function ContactForm() {
   return (
     <Form {...form}>
       <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
-        {/* Name Field */}
         <FormField
           control={form.control}
           name="name"
@@ -142,18 +134,13 @@ export function ContactForm() {
                 Name
               </FormLabel>
               <FormControl>
-                <Input
-                  placeholder="Your full name"
-                  className="font-light"
-                  {...field}
-                />
+                <Input placeholder="Your full name" className="font-light" {...field} />
               </FormControl>
               <FormMessage className="text-xs font-light" />
             </FormItem>
           )}
         />
 
-        {/* Email Field */}
         <FormField
           control={form.control}
           name="email"
@@ -175,7 +162,6 @@ export function ContactForm() {
           )}
         />
 
-        {/* Project Type Select */}
         <FormField
           control={form.control}
           name="projectType"
@@ -210,7 +196,6 @@ export function ContactForm() {
           )}
         />
 
-        {/* Message Textarea */}
         <FormField
           control={form.control}
           name="message"
@@ -231,14 +216,12 @@ export function ContactForm() {
           )}
         />
 
-        {/* Root Error Message */}
         {form.formState.errors.root && (
           <div className="text-sm text-destructive font-light">
             {form.formState.errors.root.message}
           </div>
         )}
 
-        {/* Submit Button */}
         <Button
           type="submit"
           className="w-full py-6 text-base font-light tracking-wide"
