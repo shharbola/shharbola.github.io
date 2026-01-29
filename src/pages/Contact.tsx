@@ -230,6 +230,10 @@ export default function Contact() {
                       <div className="w-1.5 h-1.5 rounded-full bg-primary" />
                       Project-based Development
                     </li>
+                     <li className="flex items-center gap-2">
+                      <div className="w-1.5 h-1.5 rounded-full bg-primary" />
+                      Peer Review &amp; Dissertation Supervision
+                    </li>
                     <li className="flex items-center gap-2">
                       <div className="w-1.5 h-1.5 rounded-full bg-primary" />
                       Advisory &amp; Fractional Roles
