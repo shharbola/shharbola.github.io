@@ -141,22 +141,22 @@ export const education = [
   {
     degree: "Ph.D., Computer Science (Informatics)",
     institution: "Universität Stuttgart, Germany",
-    year: "2017 – 2021",
-    grade: "1.0 (Highest Distinction)",
+    year: "", // 2017 – 2021
+    grade: "", // 1.0 (Highest Distinction)
     focus: "Deep learning-based prediction and visual analytics for temporal data",
   },
   {
     degree: "M.Tech., Scientific Computing Engineering",
     institution: "IIT Kanpur, India",
-    year: "2014 – 2016",
-    grade: "7.9 / 10",
+    year: "", // 2014 – 2016
+    grade: "", // 7.9 / 10
     focus: "Informatics, numerical modeling, and scientific computing",
   },
   {
     degree: "B.Tech., Computer Science Engineering",
-    institution: "UTU UK, India",
-    year: "2007 – 2011",
-    grade: "Honors (80%)",
+    institution: "UTU UK, India", //
+    year: "", // 2007 – 2011
+    grade: "", // Honors (80%)
     focus: "Object-oriented programming and applied mathematics",
   },
 ];
@@ -168,29 +168,29 @@ export const education = [
 export const experience = [
   {
     title: "Principal Consultant – AI",
-    company: "CT, Germany",
-    period: "2023 – Present",
+    company: "Continental, Germany",
+    period: "", // 2023 – Present
     description:
       "Leading enterprise LLM agent development and analytics product strategy. Streamlined internal data workflows, saving 40+ hours/month through automation.",
   },
   {
     title: "Data Scientist – Digital Products",
     company: "BASF, Germany",
-    period: "2021 – 2023",
+    period: "", // 2021 – 2023
     description:
       "Built forecasting frameworks improving sales and inventory prediction accuracy by 18%. Delivered Python-based analytics for strategic planning.",
   },
   {
     title: "Research Associate – Environmental AI",
     company: "Universität Stuttgart & HFT Stuttgart",
-    period: "2017 – 2021",
+    period: "", // 2017 – 2021
     description:
       "Published peer-reviewed research and developed wind prediction AI for cost-effective urban turbine planning with explainable AI integration.",
   },
   {
     title: "ML Modeling Researcher",
     company: "IIT Kanpur & IIT Gandhinagar",
-    period: "2016 – 2017",
+    period: "", // 2016 – 2017
     description:
       "Developed AQTA—an urban air-quality forecasting portal with real-time visualization, deployed publicly on GitHub.",
   },
