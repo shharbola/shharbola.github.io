@@ -41,7 +41,7 @@ I’m currently open to consulting engagements as well as research collaboration
   ],
 
   experience: {
-    years: 10,
+    years: 11,
     projects: 50,
     clients: 30,
   },
@@ -142,21 +142,21 @@ export const education = [
     degree: "Ph.D., Computer Science (Informatics)",
     institution: "Universität Stuttgart, Germany",
     year: "", // 2017 – 2021
-    grade: "", // 1.0 (Highest Distinction)
+    // grade: "", // 1.0 (Highest Distinction)
     focus: "Deep learning-based prediction and visual analytics for temporal data",
   },
   {
     degree: "M.Tech., Scientific Computing Engineering",
     institution: "IIT Kanpur, India",
     year: "", // 2014 – 2016
-    grade: "", // 7.9 / 10
+    // grade: "", // 7.9 / 10
     focus: "Informatics, numerical modeling, and scientific computing",
   },
   {
     degree: "B.Tech., Computer Science Engineering",
     institution: "UTU UK, India", //
     year: "", // 2007 – 2011
-    grade: "", // Honors (80%)
+    // grade: "", // Honors (80%)
     focus: "Object-oriented programming and applied mathematics",
   },
 ];
