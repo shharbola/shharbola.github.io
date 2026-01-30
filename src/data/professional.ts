@@ -12,7 +12,7 @@ export const professionalInfo: ProfessionalInfo = {
   heroIntroduction:
     "I help enterprises harness the power of AI and machine learning to solve real-world challenges. With a Ph.D. in Deep Learning and 10+ years of experience spanning research and industry, I specialize in LLM-based agents, predictive analytics, and sustainable AI solutions.",
 
-  biography: `I’m a Principal AI Consultant with a passion for building intelligent systems that deliver measurable business impact. My journey spans academic research at IIT Kanpur, Universität Stuttgart to leading AI strategy and solution delivery for Fortune 500 companies.
+  biography: `I’m a Principal AI Consultant with a passion for building intelligent systems that deliver measurable business impact. My journey spans academic research at IIT Kanpur, HFT Stuttgart, Universität Stuttgart to leading AI strategy and solution delivery for Fortune 500 companies.
 
 With deep expertise in deep learning, predictive modeling, and explainable AI, I’ve designed and deployed solutions that have saved organizations millions in operational costs while also advancing sustainable and responsible AI practices. My work has been published in top-tier journals and applied to real-world challenges across environmental science, manufacturing, and enterprise operations.
 
