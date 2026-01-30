@@ -225,7 +225,7 @@ export default function About() {
                       </Badge>
                     </div>
                     <p className="text-primary font-medium mb-1">{edu.institution}</p>
-                    <p className="text-sm text-muted-foreground mb-2">Grade: {edu.grade}</p>
+                   {edu.grade && (<p className="text-sm text-muted-foreground mb-2">Grade: {edu.grade}</p>)}
                     <p className="text-sm text-muted-foreground font-light">{edu.focus}</p>
                   </div>
                 </ScrollReveal>
