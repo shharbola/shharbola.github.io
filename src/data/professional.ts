@@ -153,11 +153,11 @@ export const education = [
     focus: "Informatics, numerical modeling, and scientific computing",
   },
   {
-    degree: "B.Tech., Computer Science Engineering",
-    institution: "UTU, India", //
-    year: "", // 2007 – 2011
-    grade: "", // Honors (80%)
-    focus: "Object-oriented programming and applied mathematics",
+    // degree: "B.Tech., Computer Science Engineering",
+    // institution: "UTU, India", //
+    // year: "", // 2007 – 2011
+    // grade: "", // Honors (80%)
+    // focus: "Object-oriented programming and applied mathematics",
   },
 ];
 
