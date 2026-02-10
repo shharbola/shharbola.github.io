@@ -10,7 +10,7 @@ export const professionalInfo: ProfessionalInfo = {
   tagline: "Transforming complex data into intelligent solutions",
 
   heroIntroduction:
-    "I help enterprises harness the power of AI and machine learning to solve real-world challenges. With a Ph.D. in Deep Learning and 10+ years of experience spanning research and industry, I specialize in LLM-based agents, predictive analytics, and sustainable AI solutions.",
+    "I help enterprises harness the power of AI and machine learning to solve real-world challenges. With a Ph.D. in Deep Learning, IITK alumni and 10+ years of experience spanning research and industry, I specialize in LLM-based agents, predictive analytics, and sustainable AI solutions.",
 
   biography: `I’m a Principal AI Consultant with a passion for building intelligent systems that deliver measurable business impact. My journey spans education and research at IIT Kanpur, HFT Stuttgart, Universität Stuttgart to leading AI strategy and solution delivery for Fortune 500 companies.
 
@@ -152,13 +152,13 @@ export const education = [
     grade: "", // 7.9 / 10
     focus: "Informatics, numerical modeling, and scientific computing",
   },
-  {
+  //{
     // degree: "B.Tech., Computer Science Engineering",
     // institution: "UTU, India", //
     // year: "", // 2007 – 2011
     // grade: "", // Honors (80%)
     // focus: "Object-oriented programming and applied mathematics",
-  },
+  //},
 ];
 
 /* =========================
